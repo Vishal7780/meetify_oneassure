@@ -89,6 +89,6 @@ curl --location 'http://localhost:8000/api/meeting/' \
 ```bash
 curl --location 'http://localhost:8000/api/users/booked-meetings/?user=1&start_time=2024-06-19%2015%3A00%3A00&end_time=2024-06-21%2015%3A00%3A00'
 ```
+![image](https://github.com/Vishal7780/meetify_oneassure/assets/90459452/fe908ec8-a59c-4b31-bdd9-7e84991b219c)
 
-![image](https://github.com/Vishal7780/meetify_oneassure/assets/90459452/cf535165-b1e3-4fdf-b4cd-1e885d0ba4c1)
 
